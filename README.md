@@ -1,63 +1,132 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,50:1a1a1a,100:0a0a0a&height=230&section=header&text=Sruthy%20Kanth&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20Engineering%20Student%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=62&descAlign=50&descColor=b5b5b5&stroke=ffffff&strokeWidth=1)
+<!-- HERO SECTION: High-impact editorial typography matching Reference 1 -->
+![Sruthy Kanth](./assets/banner.svg)
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&weight=600&size=20&duration=2800&pause=600&color=FFFFFF&center=true&vCenter=true&width=780&lines=I+build+with+AI+and+data;Exploring+ML+%2F+DL+%2F+Intelligent+Systems;Turning+ideas+into+working+projects;AI+Engineering+Student)](https://git.io/typing-svg)
+<!-- Animated Typing Subtitle -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+(AI)+Student+%7C+MITS+Kochi;Machine+Learning+%7C+Computer+Vision+%7C+Full+Stack;Curious+enough+to+ask+%C2%B7+Stubborn+enough+to+build;Open+to+Internships%2C+Collaborations+%26+Hackathons)](https://git.io/typing-svg)
 
 <br/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sruthy-kanth&label=Profile+Views&color=ffffff&style=for-the-badge&labelColor=0a0a0a" />
-  <img src="https://img.shields.io/github/followers/sruthy-kanth?label=Followers&style=for-the-badge&color=ffffff&labelColor=0a0a0a" />
+<!-- Quick Social Links Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/sruthy-kanth/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="https://portfolio-drab-six-e4c5va42e0.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
+  &nbsp;
+  <a href="mailto:sruthykanth06@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/sruthy-kanth"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/></a>
 </p>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=header&reversal=true"/>
-
 ---
 
 <div align="center">
 
-![section-about](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=WHO+AM+I&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+![ABOUT ME](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=ABOUT+ME&fontSize=18&fontColor=ffffff&fontAlignY=70)
 
 </div>
 
+<br/>
+
+<!-- ABOUT ME SECTION WITH NEAT ALIGNMENT & SPACING -->
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-&nbsp;&nbsp;`>` &nbsp;**NAME** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;Sruthy Kanth  
-&nbsp;&nbsp;`>` &nbsp;**ROLE** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;AI Engineering Student  
-&nbsp;&nbsp;`>` &nbsp;**FOCUS** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;Machine Learning · Deep Learning · Systems  
-&nbsp;&nbsp;`>` &nbsp;**MINDSET** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→ &nbsp;*"Build end-to-end, learn by shipping"*
+```text
+  >  NAME        →  Sruthy Kanth
+  >  LOCATION    →  Kerala, India
+  >  DEGREE      →  BTech CSE(AI) · 3rd Sem · MITS , Kochi
+  >  INTERESTS   →  DSA · Machine Learning · Computer Vision · Full Stack Development
+```
 
 <br/>
 
-**Currently**
+> **Hi, I'm Sruthy.** My journey into tech started with curiosity and a willingness to try things I knew nothing about. Today, I'm a CS(AI) student who enjoys building projects, learning new technologies, and figuring out how ideas can be transformed into real solutions. I believe the best way to learn is to create, experiment, and keep improving.
 
-![Learning](https://img.shields.io/badge/Learning-AI_%2F_ML_Engineering-ffffff?style=flat-square&labelColor=1a1a1a)
-![Building](https://img.shields.io/badge/Building-Personal_Projects-ffffff?style=flat-square&labelColor=1a1a1a)
-![Open](https://img.shields.io/badge/Open_To-Internships_%26_Collabs-ffffff?style=flat-square&labelColor=1a1a1a)
+<br/>
+
+🤝 **Open to:**  
+*I'm open to internships, collaborations, and hackathons of any kind.*
 
 </td>
-<td width="45%" align="center" valign="middle">
+<td width="40%" valign="top" align="center">
 
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif&filt=greyscale" width="300" alt="coding"/>
+<br/>
+
+```text
++------------------------------------+
+|                                    |
+|   "Curious enough to ask           |
+|    Stubborn enough to build."      |
+|                                    |
++------------------------------------+
+```
+
+<br/>
+
+![Open To](https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-ffffff?style=for-the-badge&labelColor=0a0a0a)
+
+<br/><br/>
+
+![Location](https://img.shields.io/badge/LOCATION-KERALA%2C_INDIA-ffffff?style=for-the-badge&labelColor=0a0a0a)
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=footer"/>
+---
+
+<div align="center">
+
+![SKILLS & DOMAINS](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=SKILLS+%26+DOMAINS&fontSize=18&fontColor=ffffff&fontAlignY=70)
+
+<br/>
+
+### Core Focus Areas
+
+![DSA](https://img.shields.io/badge/DSA-0A0A0A?style=for-the-badge&logo=codeforces&logoColor=ffffff)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A0A0A?style=for-the-badge&logo=python&logoColor=ffffff)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-0A0A0A?style=for-the-badge&logo=opencv&logoColor=ffffff)
+![Full Stack Development](https://img.shields.io/badge/Full_Stack_Development-0A0A0A?style=for-the-badge&logo=javascript&logoColor=ffffff)
+
+<br/><br/>
+
+### Technical Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=ffffff)
+
+<br/>
+
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=flat-square&logo=visualstudiocode&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=flat-square&logo=jupyter&logoColor=ffffff)
+
+<br/>
+
+**Soft Skills**  
+`Problem Solving` &nbsp;•&nbsp; `Teamwork` &nbsp;•&nbsp; `Communication` &nbsp;•&nbsp; `Leadership`
+
+</div>
 
 ---
 
 <div align="center">
 
-![section-projects](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=FEATURED+PROJECTS&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+![CERTIFICATIONS](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=CERTIFICATIONS&fontSize=18&fontColor=ffffff&fontAlignY=70)
 
 </div>
 
@@ -65,157 +134,108 @@
 
 <table>
 <tr>
-<td colspan="2">
-<img src="https://img.shields.io/badge/01------------------------------------------------PROJECT-ffffff?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a" width="100%"/>
+<td width="50%" valign="top">
 
-## &nbsp;&nbsp; Project Name Here
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*One-line description of what it does*
+#### 🚀 Startup School: Prompt to Prototype
+**Issuer:** Google for Startups  
+*Building and prototyping AI-powered applications.*
+
+</td>
+<td width="50%" valign="top">
+
+#### 💻 Digital Application Fundamentals - STEM
+**Issuer:** NASSCOM FutureSkills Prime  
+*Foundational software development & STEM skills.*
+
 </td>
 </tr>
 <tr>
-<td width="58%" valign="top">
+<td width="50%" valign="top">
 
-- Key feature or capability one
-- Key feature or capability two
-- Key feature or capability three
-- What makes it technically interesting
-
-</td>
-<td width="42%" valign="top" align="center">
-
-![status](https://img.shields.io/badge/STATUS-ffffff?style=for-the-badge&labelColor=0a0a0a)
-
-<br/>
-
-![Tech](https://img.shields.io/badge/Tech-1a1a1a?style=flat-square&logoColor=ffffff)
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/sruthy-kanth)
+#### 🗣️ LinguaSkill Business - English Assessment
+**Issuer:** Cambridge University Press & Assessment  
+*Professional business English assessment.*
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td colspan="2">
-<img src="https://img.shields.io/badge/02------------------------------------------------PROJECT-ffffff?style=for-the-badge&labelColor=0a0a0a&color=0a0a0a" width="100%"/>
-
-## &nbsp;&nbsp; Project Name Here
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*One-line description of what it does*
-</td>
-</tr>
-<tr>
-<td width="58%" valign="top">
-
-- Key feature or capability one
-- Key feature or capability two
-- Key feature or capability three
-- What makes it technically interesting
-
-</td>
-<td width="42%" valign="top" align="center">
-
-![status](https://img.shields.io/badge/STATUS-ffffff?style=for-the-badge&labelColor=0a0a0a)
-
-<br/>
-
-![Tech](https://img.shields.io/badge/Tech-1a1a1a?style=flat-square&logoColor=ffffff)
-
-<br/>
-
-[![View Repo](https://img.shields.io/badge/View_Repo-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0a0a0a)](https://github.com/sruthy-kanth)
+#### 📐 Discrete Mathematics
+**Issuer:** NPTEL (IIT Madras)  
+*Core mathematical foundations for computer science.*
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=footer"/>
-
 ---
 
 <div align="center">
 
-![section-stack](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=TECH+STACK&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
-
-<br/>
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=0a0a0a)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0a0a)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a1a?style=for-the-badge&logo=tensorflow&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/PyTorch-1a1a1a?style=for-the-badge&logo=pytorch&logoColor=ffffff)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-1a1a1a?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=ffffff)
-
-**Tools**
-
-![Jupyter](https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![EDUCATION](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=EDUCATION&fontSize=18&fontColor=ffffff&fontAlignY=70)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=header&reversal=true"/>
+<br/>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 **Bachelor of Technology — CS & Engineering (Artificial Intelligence)**  
+*Muthoot Institute of Technology and Science (MITS), Kochi*  
+**Duration:** 2025 – 2029 (3rd Semester)
+
+</td>
+<td width="40%" valign="top">
+
+🏫 **Higher Secondary Education (Bio-Maths)**  
+*Carmel CMI Public School, Vazhakulam*  
+**Duration:** 2023 – 2025
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-![section-stats](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=GITHUB+STATS&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+![GITHUB ANALYTICS](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=GITHUB+ANALYTICS&fontSize=18&fontColor=ffffff&fontAlignY=70)
 
 <br/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sruthy-kanth&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=b5b5b5"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthy-kanth&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=b5b5b5"/>
 
-<br/>
+<br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sruthy-kanth&theme=dark&hide_border=true&background=0a0a0a&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b5b5b5&dates=b5b5b5&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sruthy-kanth&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=b5b5b5&dates=b5b5b5&sideNums=ffffff&currStreakNum=ffffff)](https://git.io/streak-stats)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=footer"/>
 
 ---
 
 <div align="center">
 
-![section-activity](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=CONTRIBUTION+ACTIVITY&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+![CONNECT](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:141414&height=50&text=CONNECT&fontSize=18&fontColor=ffffff&fontAlignY=70)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sruthy-kanth&theme=github-compact&hide_border=true&bg_color=0a0a0a&color=ffffff&line=ffffff&point=b5b5b5&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=80&section=header&reversal=true"/>
-
----
-
-<div align="center">
-
-![section-connect](https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,100:1a1a1a&height=50&text=CONNECT&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=70)
+Have an opportunity, hackathon invite, or project collaboration in mind?  
+**Feel free to reach out!**
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sruthy-kanth/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-drab-six-e4c5va42e0.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:sruthykanth06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sruthy_Kanth-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/sruthy-kanth/)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-sruthy--kanth.vercel.app-0a0a0a?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://portfolio-drab-six-e4c5va42e0.vercel.app/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-sruthykanth06@gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:sruthykanth06@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-sruthy--kanth-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/sruthy-kanth)
 
 <br/><br/>
 
-```
-+--------------------------------------------------------------------+
-|                                                                    |
-|   "Build end-to-end, learn by shipping."                           |
-|                                                                    |
-+--------------------------------------------------------------------+
-```
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:0a0a0a&height=100&section=footer&reversal=true)
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:0a0a0a&height=140&section=footer&reversal=true)
