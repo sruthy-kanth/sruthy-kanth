@@ -47,7 +47,7 @@
 
 <br/>
 
-> **Hi, I'm Sruthy.** My journey into tech started with curiosity and a willingness to try things I knew nothing about. Today, I'm a CS(AI) student who enjoys building projects, learning new technologies, and figuring out how ideas can be transformed into real solutions. I believe the best way to learn is to create, experiment, and keep improving.
+> **Hi, I'm Sruthy.** My journey into tech started with curiosity and a willingness to try things I knew nothing about. I'm a CS(AI) student who enjoys building projects, learning new technologies, and figuring out how ideas can be transformed into real solutions. I believe the best way to learn is to create, experiment, and keep improving.
 
 <br/>
 
