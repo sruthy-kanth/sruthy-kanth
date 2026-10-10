@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO SECTION: High-impact editorial typography matching Reference 1 -->
-![Sruthy Kanth](./assets/banner.svg)
+<img src="https://raw.githubusercontent.com/sruthy-kanth/sruthy-kanth/main/assets/banner.svg" alt="Sruthy Kanth" width="100%" />
 
 <br/>
 
@@ -101,8 +101,8 @@
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=matlab&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=flat-square&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=ffffff)
@@ -204,7 +204,7 @@
 
 <br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sruthy-kanth&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=b5b5b5"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sruthy-kanth&show_icons=true&theme=dark&include_all_commits=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=ffffff&text_color=b5b5b5"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sruthy-kanth&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=b5b5b5"/>
 
 <br/><br/>

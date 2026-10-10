@@ -1,14 +1,13 @@
 <svg width="1200" height="460" viewBox="0 0 1200 460" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&amp;display=swap');
-      .top-meta { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 4px; fill: #888888; text-transform: uppercase; }
-      .greeting { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 34px; font-weight: 300; letter-spacing: 6px; fill: #a0a0a0; }
-      .hero-title { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 118px; font-weight: 900; letter-spacing: -1px; fill: #ffffff; text-transform: uppercase; }
-      .subtitle { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 3px; fill: #888888; text-transform: uppercase; }
-      .quote { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 14px; font-weight: 300; font-style: italic; letter-spacing: 1px; fill: #666666; }
+      .top-meta { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 4px; fill: #888888; text-transform: uppercase; }
+      .greeting { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 34px; font-weight: 300; letter-spacing: 6px; fill: #a0a0a0; }
+      .hero-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 118px; font-weight: 900; letter-spacing: -1px; fill: #ffffff; text-transform: uppercase; }
+      .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 3px; fill: #888888; text-transform: uppercase; }
+      .quote { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 14px; font-weight: 300; font-style: italic; letter-spacing: 1px; fill: #666666; }
       .accent-line { stroke: #262626; stroke-width: 1px; }
-      .badge-text { font-family: 'Inter', system-ui, -apple-system, sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 2px; fill: #ffffff; }
+      .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, Helvetica, Arial, sans-serif; font-size: 11px; font-weight: 600; letter-spacing: 2px; fill: #ffffff; }
     </style>
     <linearGradient id="bg-grad" x1="0%" y1="0%" x2="0%" y2="100%">
       <stop offset="0%" stop-color="#0a0a0a"/>
@@ -21,7 +20,7 @@
 
   <!-- Top Metadata Bar -->
   <text x="50" y="45" class="top-meta">SRUTHY KANTH</text>
-  <text x="1150" y="45" class="top-meta" text-anchor="end">LINKEDIN &bull; PORTFOLIO &bull; GITHUB</text>
+  <text x="1150" y="45" class="top-meta" text-anchor="end">LINKEDIN • PORTFOLIO • GITHUB</text>
   
   <!-- Divider Top Line -->
   <line x1="50" y1="62" x2="1150" y2="62" class="accent-line"/>
@@ -35,6 +34,6 @@
   <line x1="50" y1="390" x2="1150" y2="390" class="accent-line"/>
 
   <!-- Bottom Metadata / Subtitles -->
-  <text x="50" y="422" class="subtitle">B.TECH CSE (AI) &bull; KERALA, INDIA &bull; MITS KOCHI</text>
-  <text x="1150" y="422" class="quote" text-anchor="end">"Curious enough to ask &bull; Stubborn enough to build"</text>
+  <text x="50" y="422" class="subtitle">B.TECH CSE (AI) • KERALA, INDIA • MITS KOCHI</text>
+  <text x="1150" y="422" class="quote" text-anchor="end">"Curious enough to ask • Stubborn enough to build"</text>
 </svg>
