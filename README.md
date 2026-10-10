@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Animated Typing Subtitle -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+(AI)+Student+%7C+MITS+Kochi;Machine+Learning+%7C+Computer+Vision+%7C+Full+Stack;Curious+enough+to+ask+%C2%B7+Stubborn+enough+to+build;Open+to+Internships%2C+Collaborations+%26+Hackathons)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Computer+Science+(AI)+Student+%7C+MITS+Kochi;Machine+Learning+%7C+Computer+Vision+%7C+Full+Stack;Open+to+Internships%2C+Collaborations+%26+Hackathons)](https://git.io/typing-svg)
 
 <br/>
 
@@ -57,18 +57,6 @@
 </td>
 <td width="40%" valign="top" align="center">
 
-<br/>
-
-```text
-+------------------------------------+
-|                                    |
-|   "Curious enough to ask           |
-|    Stubborn enough to build."      |
-|                                    |
-+------------------------------------+
-```
-
-<br/>
 
 ![Open To](https://img.shields.io/badge/STATUS-OPEN_FOR_OPPORTUNITIES-ffffff?style=for-the-badge&labelColor=0a0a0a)
 
